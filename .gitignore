@@ -1,7 +1,5 @@
-HELP.md
-.gradle
-/build/
-!gradle/wrapper/gradle-wrapper.jar
+/target/
+!.mvn/wrapper/maven-wrapper.jar
 
 ### STS ###
 .apt_generated
@@ -16,6 +14,7 @@ HELP.md
 .idea
 *.iws
 *.ipr
+*.iml
 /out/
 
 ### NetBeans ###
