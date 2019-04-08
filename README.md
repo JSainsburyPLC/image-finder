@@ -7,7 +7,7 @@ You are required to build a server side application, it should expose an endpoin
 
 For the purpose of this exercise, the external API will be NASA's media searching API, here is an example of the API call:
 
-> `https://images-api.nasa.gov/search?q=moon`
+    https://images-api.nasa.gov/search?q=moon
 
 Feel free to explore this API via your browser or Postman(or other equivalent tools). You are allow to use Google or Stack Overflow during the exercise, if you need to.
 
