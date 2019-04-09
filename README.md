@@ -3,7 +3,7 @@ This repository contains a barebone project that is used as a Java coding interv
 
 
 ## Brief
-You are required to build a server side application, it should expose an endpoint that allows other to find images by a search term. Internally It should query an external image searching API, transform the response(whatever it maybe be), and return **at least** a collection of image URLs as the result.
+You are required to build a server side application, it should expose endpoints that allow others to find images by a search term. Internally It should query an external image searching API, transform the response(whatever it maybe be), and return **at least** a collection of image URLs as the result.
 
 For the purpose of this exercise, the external API will be NASA's media searching API, here is an example of the API call:
 
