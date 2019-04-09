@@ -9,13 +9,15 @@ For the purpose of this exercise, the external API will be NASA's media searchin
 
     https://images-api.nasa.gov/search?q=moon
 
-Feel free to explore this API via your browser or Postman(or other equivalent tools). You are allow to use Google or Stack Overflow during the exercise, if you need to.
+Feel free to explore this API via your browser or Postman(or other equivalent tools). You are allow to use Google or Stack Overflow during the exercise, if you need to. You can use any IDE/text editor of your choice.
 
 
 ## Usage
+Choose one of these build and clone the project using the following command
 
 #### Gradle build
 `git clone --single-branch -b build/gradle https://github.com/jayfeng-sainy/image-finder.git`
+
 
 #### Maven build
 `git clone --single-branch -b build/maven https://github.com/jayfeng-sainy/image-finder.git`
