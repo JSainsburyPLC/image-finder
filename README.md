@@ -23,15 +23,13 @@ Choose one of these build and clone the project using the following command
 `git clone --single-branch -b build/maven https://github.com/jayfeng-sainy/image-finder.git`
 
 
-
-
 Both builds come with `spring-boot-starter-web` as a dependency, we would prefer you to use Spring but you are definitely free to choose other frameworks/libraries if you see fit.
 
 
 ## Assessment
 We will be assessing you on these aspects: 
 1. Code structure
-2. API design
+2. API design and implementation
 3. Production readiness
 4. Functionality
 5. Thought process
