@@ -9,21 +9,21 @@ For the purpose of this exercise, the external API will be NASA's media searchin
 
     https://images-api.nasa.gov/search?q=moon
 
-Feel free to explore this API via your browser or Postman(or other equivalent tools). You are allow to use Google or Stack Overflow during the exercise, if you need to. You can use any IDE/text editor of your choice.
+Feel free to explore this API via your browser or Postman(or other equivalent tools). You are allow to use Google or Stack Overflow during the exercise, if you need to.
 
 
 ## Usage
-Choose one of these build and clone the project using the following command
+Choose one of these builds and clone the project using the following command:
 
-#### Gradle build
+
+#### Gradle
 `git clone --single-branch -b build/gradle https://github.com/jayfeng-sainy/image-finder.git`
 
-
-#### Maven build
+#### Maven
 `git clone --single-branch -b build/maven https://github.com/jayfeng-sainy/image-finder.git`
 
 
-Both builds come with `spring-boot-starter-web` as a dependency, we would prefer you to use Spring but you are definitely free to choose other frameworks/libraries if you see fit.
+You are free to code and run the application using any IDE/text editor of your choice. Both builds come with `spring-boot-starter-web` as a dependency, we would prefer you to use Spring but you are definitely free to choose other frameworks/libraries if you see fit.
 
 
 ## Assessment
