@@ -45,7 +45,7 @@ Here is what we expect our service to return:
 ```
 [
   "https://images-assets.nasa.gov/image/PIA12235/PIA12235~thumb.jpg",
-  "https://images-assets.nasa.gov/image/PIA24335/PIA24335~thumb.jpg",
+  "https://images-assets.nasa.gov/image/PIA13517/PIA13517~thumb.jpg",
   ...
 ]
 ```
