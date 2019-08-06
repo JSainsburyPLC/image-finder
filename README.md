@@ -55,10 +55,10 @@ Choose one of these builds and clone the project using the following command:
 
 
 #### Gradle
-    git clone --single-branch -b build/gradle https://github.com/jayfeng-sainy/image-finder.git
+    git clone --single-branch -b build/gradle https://github.com/JSainsburyPLC/image-finder.git
 
 #### Maven
-    git clone --single-branch -b build/maven https://github.com/jayfeng-sainy/image-finder.git
+    git clone --single-branch -b build/maven https://github.com/JSainsburyPLC/image-finder.git
 
 
 You are free to code and run the application using any IDE/text editor of your choice. Both builds come with `spring-boot-starter-web` as a dependency, we would prefer you to use Spring but you are definitely free to choose other frameworks/libraries if you see fit.
